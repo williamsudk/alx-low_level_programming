@@ -2,6 +2,7 @@
 /**
  * jack_bauer - Prints 24 hour time
  *
+ * Starting from 00:00 to 23:59
  * Return: always 0
  */
 void jack_bauer(void)
